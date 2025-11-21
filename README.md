@@ -14,20 +14,6 @@ Sitio web desarrollado como parte del proyecto integrador del curso, compuesto p
 
 📁 Asset Management – Manejo de imágenes y recursos estáticos
 
-📁 **Estructura del proyecto**
-
-proyecto2rollingcode/
-│
-├── assets/ # Imágenes, íconos y multimedia
-├── css/ # Hojas de estilos
-├── js/ # Scripts JS
-├── pages/ # Páginas internas (secciones del sitio)
-│
-├── index.html # Página principal
-└── README.md # Documentación del proyecto
-
-Copiar código
-
 
 📄 Descripción general
 
